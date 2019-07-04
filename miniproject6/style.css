@@ -1,0 +1,101 @@
+html {
+
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: cursive;
+    text-align: center;
+    font-size: 2em;
+    background-color: bisque;
+}
+
+h2 {
+    color: red;
+    background-color: azure;
+    font-style: italic;
+
+}
+
+body {
+    background-image: url(images/background-10.jpg);
+}
+a:link
+
+{
+    float:right;
+    text-decoration: none;
+    padding: 3px;
+    border-style: solid;
+    
+}
+
+a:hover
+{
+    color:darkred;
+}
+p {
+    font-size: 16 px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#contact {
+    color: red;
+    font-size: 14 px;
+    font-style: italic;
+    font-family: sans-serif;
+
+}
+
+#img1
+
+{
+   text-align: center;
+    
+    
+}
+
+.details
+
+{
+    background-color: darkgoldenrod;
+    margin-left: 20 px;
+    margin-right: 20 px;
+    
+}
+
+}
+
+.details{
+
+    margin: 0 10px 0 10px;
+    width: 100%;
+}
+.service {
+    background: #ddf;
+    width: 25%;
+    height: 100%;
+    padding: 5px;
+    float: left;
+    
+}
+.quality {
+    background: #dfd;
+    width: 25%;
+    height: 100%;
+    padding: 5px;
+    float: left;
+        
+}
+.value {
+    background: #fdd;
+    width: 25%;
+    height: 100%;
+    padding: 5px;
+    float: left;
+        
+}
+.clear {
+    clear: both;
+}

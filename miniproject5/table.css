@@ -1,0 +1,73 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+table, th, td
+
+{
+    padding: 3px;
+    font-family: sans-serif;
+    border-style: 1px solid black;
+
+}
+
+thead
+{
+    background-color: #808080;
+    font-size: 1em;
+    height: 30;
+}
+
+tbody
+
+{
+    font-size: 0.9em;
+}
+
+tfoot
+{
+    background-color: #807000;
+    font-size: 1em;
+    
+}
+
+#home
+{
+    
+}
+
+.center
+{
+    text-align: center;
+}
+
+.headColor
+{
+    font-style: bold;
+    background-color: orange;
+}
+
+.italicStyle
+{
+    text-align: center;
+    font-style: italic;
+}
+
+.onlyEm
+{
+    font-style: italic;
+}
+
+.inTotal
+{
+    background-color: #00FF00;
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+
+
+
